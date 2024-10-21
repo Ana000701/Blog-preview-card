@@ -1,7 +1,7 @@
 # QR code component solution
 
 Frontend Mentor 練習專案
-[Blog preview card challenge on Frontend Mentor]()。
+[Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)。
 
 ## Overview
 
