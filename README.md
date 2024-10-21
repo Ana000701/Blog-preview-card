@@ -5,7 +5,7 @@ Frontend Mentor 練習專案
 
 ## Overview
 
-![final screenshot](/assets/images/active-states.png)
+![final screenshot](design/active-states.jpg)
 
 ### Built with
 
