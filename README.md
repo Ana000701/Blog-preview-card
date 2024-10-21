@@ -5,7 +5,7 @@ Frontend Mentor 練習專案
 
 ## Overview
 
-![final screenshot](/active-states.png)
+![final screenshot](/assets/images/active-states.png)
 
 ### Built with
 
@@ -14,6 +14,6 @@ Frontend Mentor 練習專案
 
 ## Links
 
-- Solution URL: [Blog preview card Repo](https://github.com/Ana000701/blog-preview-card.git)
+- Solution URL: [Blog preview card Repo](https://github.com/Ana000701/Blog-preview-card.git)
 
-- Live Site URL: [Blog preview card Page](https://ana000701.github.io/blog-preview-card/)
+- Live Site URL: [Blog preview card Page](https://ana000701.github.io/Blog-preview-card/)
